@@ -1,6 +1,4 @@
-# Portfolio WebSite
-
-Food Ecommerce - Tailwind CSS - React-js
+# Food Ecommerce
 
 Technologies used:
 
